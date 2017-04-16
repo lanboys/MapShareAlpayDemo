@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Amap/Amap.iml" filepath="$PROJECT_DIR$/Amap/Amap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapShareAlpayDemo.iml" filepath="$PROJECT_DIR$/MapShareAlpayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Umeng/Umeng.iml" filepath="$PROJECT_DIR$/Umeng/Umeng.iml" />
+    </modules>
+  </component>
+</project>
